@@ -1,4 +1,4 @@
-package ipam;
+package project;
 
 public class MyFirstJava {
 
