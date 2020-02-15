@@ -7,7 +7,6 @@ public class MyFirstJava {
 		
 		System.out.println("Hi This is Abhishek v");
 		
-		System.out.println("Hi This is Abhishek1 v");
 	}
 
 }
